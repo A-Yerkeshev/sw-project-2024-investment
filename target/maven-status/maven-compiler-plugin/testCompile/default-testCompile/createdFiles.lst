@@ -1,2 +1,2 @@
-org\example\AppTest.class
-org\example\InvestmentCalculatorTest.class
+org/example/InvestmentCalculatorTest.class
+org/example/AppTest.class
